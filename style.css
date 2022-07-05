@@ -43,7 +43,9 @@ section {
     background-repeat: no-repeat;
 }
 
-.2nd-banner {
+.next-banner {
     background-image: url(image/2bnnr.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
