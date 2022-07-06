@@ -35,7 +35,7 @@ h2 {
 
 .hire-button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(81, 4, 26), rgb(156, 53, 70));
+    background-image: linear-gradient(#51041a, #9c3546);
     color: white;
     padding: 10px 40px;
     border-radius: 10%;
