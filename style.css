@@ -79,3 +79,7 @@ h2 {
 #Learner-Developer {
     border-left: 5px solid #046070;
 }
+
+footer p {
+    text-align: center;
+}
